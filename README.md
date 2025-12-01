@@ -1,0 +1,1 @@
+Hi! My name is Khushi and this repo contains my solutions for the 2025 Advent of Code challenges.
